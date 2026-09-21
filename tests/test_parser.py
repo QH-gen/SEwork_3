@@ -3,7 +3,7 @@
 import unittest
 from fractions import Fraction
 
-from arithmetic.expr import Num, Op, canonical_key, evaluate
+from arithmetic.expr import Num, Op, canonical_key, evaluate, to_string
 from arithmetic.parser import parse_expression, tokenize
 
 
