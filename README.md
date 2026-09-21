@@ -4,6 +4,7 @@
 
 - 邓子豪 3124004165
 - 黄琪 3124004169
+- Github 项目地址：https://github.com/QH-gen/SEwork_3
 
 ## 运行环境
 
