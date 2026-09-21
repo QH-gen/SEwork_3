@@ -1,0 +1,26 @@
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Generated files
+Exercises.txt
+Answers.txt
+Grade.txt
+*.out
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Claude Code
+.claude/
